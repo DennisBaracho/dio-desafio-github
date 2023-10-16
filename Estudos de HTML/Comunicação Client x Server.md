@@ -21,3 +21,13 @@ Servidores podem ter funções de:
 * Streaming
 * E-mail
 * Web
+
+## Linguagens de programação 
+# Server-Side
+São linguagens executadas do lado do servidor
+* php, Java, JavaScript, Ruby, C#
+
+# Client-Side
+São linguagens executadas na máquina do cliente
+* HTML, CSS, JavaScript
+_Quem roda o JS não é o navegador nem o node, é o V8. Serve para front e back end, muito versátil._
