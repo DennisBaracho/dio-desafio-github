@@ -9,5 +9,15 @@
 <br/>
 **HSLA**: HSL, mas com Alpha.
 
+## RGB
+R G B --> 255 0 0 (Vermelho)
+
 ## Hexadecimal
-##RRGGBB
+(Números de 0 a 15: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
+##RRGGBB --> #FF0000 (Vermelho)
+
+## HSL
+H S L --> 0 100% 50% (Vermelho)
+
+### Links úteis
+[HSL CALCULATOR:](https://www.w3schools.com/colors/colors_hsl.asp)
