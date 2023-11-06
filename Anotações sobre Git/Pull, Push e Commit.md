@@ -21,7 +21,7 @@ O push é utilizado para enviar seus commits para o repositório remoto, oficial
 _Neste comando, "origin" representa o nome do repositório remoto padrão (o qual você clonou ou com o qual você inicializou seu repositório local), e "nome-do-seu-branch" é o nome do branch no qual você está trabalhando localmente._
 
 ## Checkout
-Cria a branch e já troca para ela.
+Já vai pra que existir
 
 ## Checkout -b
-Já vai pra que existir
+Cria a branch e já troca para ela.
